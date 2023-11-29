@@ -1,0 +1,4 @@
+step 1 :-npm init -y
+step 2 : -npm i express nodemon mongodb mongoose  
+or inunt error
+npm i -g npm
